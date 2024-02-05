@@ -7,6 +7,7 @@ import Service from "./sections/Service";
 import Sub from "./sections/Sub";
 import SuperQuality from "./sections/SuperQuality";
 import Nav from "./components/Nav";
+import React from "react";
 
 const App = () => (
   <main className="relative">
